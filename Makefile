@@ -1,3 +1,4 @@
+## INACTIVE: See https://github.com/dushoff/makestuff.git
 ## This is a sample Makefile for getting started with makestuff
 
 current: target
