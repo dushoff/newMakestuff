@@ -1,5 +1,5 @@
-## This is an example Makefile for getting started with makestuff
-## Deprecated now? 2025 Feb 27 (Thu)
+## INACTIVE: See https://github.com/dushoff/makestuff.git
+## This is a sample Makefile for getting started with makestuff
 
 current: target
 -include target.mk
