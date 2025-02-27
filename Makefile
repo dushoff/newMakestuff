@@ -1,4 +1,5 @@
-## This is an ample Makefile for getting started with makestuff
+## This is an example Makefile for getting started with makestuff
+## Deprecated now? 2025 Feb 27 (Thu)
 
 current: target
 -include target.mk
